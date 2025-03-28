@@ -1,8 +1,8 @@
-# Проект для GIT
-## Project for git
+# Проект для GIT;
+## Project for GIT.
 
- > Хорошие проекты
+<!-- Хорошие проекты -->.
 
 1. First
-2. Second
-3. Third
+2.second
+3.Third
